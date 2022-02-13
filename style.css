@@ -1,0 +1,39 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 15px;
+}
+.topas{
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+.suo{
+    background-image: url(Foto/Suo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 80%;
+    text-align: center;
+    
+}
+p{
+    width: 300px;
+    font-size: 35px;
+    padding-top: 15px;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+}
+
